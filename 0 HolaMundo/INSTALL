@@ -1,0 +1,10 @@
+Basta con escribir 'make lua' para conseguir el "hello world" en lua.
+Pasos para instalar lua en Windows: 
+1. Entre en la siguiente página y descarge la última versión de lua para su sistema operativo
+ https://luabinaries.sourceforge.net/download.html 
+2. Guarde la carpeta descargada en la ruta deseada.
+3. Agregue la ruta de acceso a la variable de entorno de Windows.
+    - En la barra de búsqueda de Windows escriba 'Editar las variables de entorno del sistema'
+    - Dentro de las variables del sistema seleccione el 'Path'
+    - Seleccione 'Nuevo' y cree una nueva variable de entorno con la ruta de acceso a la carpeta descargada
+    - Seleccione 'Aceptar' para guardar el PATH actualizado.

@@ -1,0 +1,8 @@
+Manual de instalación, administración y configuración.
+Basta con escribir 'make' para realizar TDD, es decir, ejecutar el archivo bolosTest.py.
+
+Pasos para instalar python en Windows: 
+1. Entre en la siguiente página y descarge la última versión de python para su sistema operativo
+https://www.python.org/downloads/ 
+2. Ejecuta el instalador seleccionando la opción de añadir python al path 
+
